@@ -1,4 +1,5 @@
-#Power BI ![image](https://user-images.githubusercontent.com/78691172/174145185-179ea8c8-496a-407a-a636-e1e48c0d0ded.png)
+# Power BI ![image](https://user-images.githubusercontent.com/78691172/174145536-330a6197-f4e7-4556-ba66-987441871eaf.png)
+
 
 Dashboards desenvolvidos no curso Microsoft Power BI para Data Science da Data Science Academy.
 
