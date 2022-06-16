@@ -15,3 +15,7 @@ O dashboard abaixo é um exemplo das incríveis análises que podem ser feitas n
 # PASSO A PASSO
 
 Primeiro vamos conhecer a base de dados:
+
+
+
+![image](https://user-images.githubusercontent.com/78691172/174146787-ffb8b461-1daf-4e40-9fc0-802b6942869a.png)
